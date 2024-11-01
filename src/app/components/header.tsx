@@ -70,7 +70,7 @@ const Header: React.FC = () => {
                     >
                         <div className="flex flex-col md:flex-row md:mx-6">
                             <a className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#">Home</a>
-                            <a className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#">Shop</a>
+                            <a className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#shop">Shop</a>
                             <a className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-200 hover:text-yellow-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#">Contact</a>
                             <a className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-200 hover:text-red-500 dark:hover:text-red-400 md:mx-4 md:my-0" href="#">About</a>
                         </div>

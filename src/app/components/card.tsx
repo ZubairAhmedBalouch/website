@@ -14,7 +14,7 @@ const carddata = [
 
 const MyComponent = () => {
     return (
-        <div className="container px-6 py-16 mx-auto grid grid-cols-1 md:grid-cols-3  gap-6">
+        <div id="shop" className="container px-6 py-16 mx-auto grid grid-cols-1 md:grid-cols-3  gap-6">
             {carddata.map((card, index) => (
                 <div key={index} className="bg-white rounded-lg shadow-md p-4">
                     <Image
