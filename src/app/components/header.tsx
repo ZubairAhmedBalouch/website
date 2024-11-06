@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import Link from 'next/link';
 import pic from '../../../public/carhd.png';
 import logo from '../../../public/logo-light.png';

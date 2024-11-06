@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import Image from "next/image";
 import teamImage from "../../../public/team.jpg"; 
 import SmoothAnimatedSection from './animation';

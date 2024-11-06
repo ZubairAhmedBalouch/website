@@ -1,5 +1,5 @@
-"use client"
-import pic from "../../../public/Hilux.jpg"; //Imported car images
+"use client";
+import pic from "../../../public/Hilux.jpg";
 import pic2 from "../../../public/HR V.jpg";
 import pic3 from "../../../public/civic.jpg";
 import pic4 from "../../../public/lamborgane.webp";
