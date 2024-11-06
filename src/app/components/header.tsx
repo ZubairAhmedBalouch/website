@@ -4,7 +4,6 @@ import pic from '../../../public/carhd.png';
 import logo from '../../../public/logo-light.png';
 import pic1 from '../../../public/slide1.jpg';
 import Image from 'next/image';
-// components/Header.tsx
 import React, { useState } from 'react';
 
 const Header: React.FC = () => {

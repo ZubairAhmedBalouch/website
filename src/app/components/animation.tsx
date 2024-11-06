@@ -1,5 +1,5 @@
 "use client"
-// components/SmoothAnimatedSection.tsx
+// components/SmoothAnimatedSection.tsx For Animation
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 

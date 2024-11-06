@@ -35,7 +35,7 @@ const AboutUs = () => {
             </button>
           </div>
 
-          {/* Right Side - Image */}
+          {/* Right Side-Image */}
           <div className="w-full md:w-1/2 relative">
             <Image
               src={teamImage} 
