@@ -1,16 +1,21 @@
-import MyComponent from "./Components/header";
-import Mycards from "./Components/mycards";
-import Contact from "./Components/contact";
-import About from "./Components/about";
+
+
+
+import AboutUs from "./Components/about";
+import Cards from "./Components/mycards";
+import Header from "./Components/header";
+import ContactSection from "./Components/contact";
+
 
 
 export default function Home() {
   return (
     <div>
-      <MyComponent />
-      <Mycards />
-      <About />
-      <Contact />
+      <Header/>
+      <Cards/>
+      <AboutUs/>
+    
+      <ContactSection/>
     </div>
   );
 }

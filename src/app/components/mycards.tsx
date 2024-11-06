@@ -17,7 +17,7 @@ const cardata = [
     { image: pic6, heading: "Sports Car", p: "Sports Car XCN-356 Model 2024" },
 ];
 
-const mycards = () => {
+const Cards = () => {
   return (
     <>
     <SmoothAnimatedSection>
@@ -57,4 +57,4 @@ const mycards = () => {
   );
 };
 
-export default mycards;
+export default Cards;
