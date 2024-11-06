@@ -1,17 +1,16 @@
-// import Image from "next/image";
-// import ProductivitySection from "./components/header";
-import Header from "./components/header";
-// import MyComponent from "./components/header";
-import Card from "./components/card";
+import MyComponent from "./Components/header";
+import Mycards from "./Components/mycards";
+import Contact from "./Components/contact";
+import About from "./Components/about";
+
 
 export default function Home() {
   return (
     <div>
-      {/* <h1>hello-world</h1> */}
-      <Header/>
-      <Card/>
-      {/* <MyComponent/> */}
-
+      <MyComponent />
+      <Mycards />
+      <About />
+      <Contact />
     </div>
   );
 }
